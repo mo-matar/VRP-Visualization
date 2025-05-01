@@ -1,6 +1,6 @@
 # VRP-Visualization
 
-A visualization of a simulated annealing solution for the vehicle routing problem with capacity constraints.
+A visualization of a simulated annealing solution for the vehicle routing problem with capacity constraints as part of the AI course at NNU.
 
 ## Project Overview
 
@@ -40,11 +40,11 @@ The simulated annealing algorithm works as follows:
 The setup screen allows configuring parameters like number of trucks, truck capacity, initial temperature, and cooling rate.
 
 ### Simulation Process
+User defined cities and capacities (No solution yet):
+![Simulation in Progress](img/simulation_screen_not_solved_yet.png)
+
 Initial solution with randomly assigned routes:
 ![Initial Solution](img/simulation_screen_inital_solution.png)
-
-Simulation in progress:
-![Simulation in Progress](img/simulation_screen_not_solved_yet.png)
 
 Final optimized solution:
 ![Final Solution](img/simulation_screen_final_solution.png)
