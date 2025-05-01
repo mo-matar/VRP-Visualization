@@ -35,28 +35,28 @@ The simulated annealing algorithm works as follows:
 ## User Interface
 
 ### Setup Screen
-![Setup Screen](img/setup_screen.png)
+<img src="img/setup_screen.png" width="500" alt="Setup Screen">
 
 The setup screen allows configuring parameters like number of trucks, truck capacity, initial temperature, and cooling rate.
 
 ### Simulation Process
 Initial solution with randomly assigned routes:
-![Initial Solution](img/simulation_screen_inital_solution.png)
+<img src="img/simulation_screen_inital_solution.png" width="500" alt="Initial Solution">
 
 Simulation in progress:
-![Simulation in Progress](img/simulation_screen_not_solved_yet.png)
+<img src="img/simulation_screen_not_solved_yet.png" width="500" alt="Simulation in Progress">
 
 Final optimized solution:
-![Final Solution](img/simulation_screen_final_solution.png)
+<img src="img/simulation_screen_final_solution.png" width="500" alt="Final Solution">
 
 ### Results Screen
-![Results Screen](img/results_screen.png)
+<img src="img/results_screen.png" width="500" alt="Results Screen">
 
 The results screen shows the optimized routes and provides analysis of the algorithm's performance.
 
 ### Performance Metrics
 The algorithm tracks temperature decay and distance optimization:
-![Performance Plot](img/simulated_ann_termpreture_decay_and_best_distance_plot.png)
+<img src="img/simulated_ann_termpreture_decay_and_best_distance_plot.png" width="500" alt="Performance Plot">
 
 ## How to Run
 
